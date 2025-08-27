@@ -21,7 +21,5 @@ export default defineConfig({
       '.manusvm.computer'
     ]
   },
-  base: '/v2/',
+  base: './',
 })
-
-
